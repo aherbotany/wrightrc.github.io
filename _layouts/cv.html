@@ -3,14 +3,18 @@
 <head>
   <meta charset=utf-8 />
   <title> Clay Wright's CV</title>
-  <link href="media/cv-screen.css" type="text/css" rel="stylesheet" media="screen">
-  <link href="media/cv-print.css" type="text/css" rel="stylesheet" media="print">
-
-  <!-- imports -->
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+  <link href="media/cv-screen.css" type="text/css" rel="stylesheet">
 </head>
+
 <body>
+  <nav>
+          <ul>
+              <li><a href="/">Home</a></li>
+              <li><a href="/research">Research</a></li>
+              <li><a href="/cv">CV</a></li>
+              <li><a href="/blog">Blog</a></li>
+          </ul>
+      </nav>
   <div id="main">
     <div id="content">
     {{ content }}
@@ -18,6 +22,11 @@
   </div>
 
   <div class="footer"></div>
-
+  <footer>
+          <ul>
+              <li><a href="mailto:wright.clay@gmail.com">email</a></li>
+              <li><a href="https://github.com/wrightrc">github.com/wrightrc</a></li>
+          </ul>
+  </footer>
 </body>
 </html>
