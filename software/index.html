@@ -1,0 +1,11 @@
+---
+layout: default
+title: Software
+---
+	<h1>{{ page.title }}</h1>
+	<ul class="posts">
+
+	  {% for project in site.projects %}
+	    <li><a href="{{ project.url }}" title="{{ project.title }}">{{ project.title }}</a> <- <span>{{ project.description }}</span></li>
+	  {% endfor %}
+	</ul>

@@ -3,3 +3,9 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title 
 safe: true
 highlighter: rouge
+include: ["_projects"]
+collections:
+ projects: 
+  output: true
+  permalink: /projects/:path/
+
