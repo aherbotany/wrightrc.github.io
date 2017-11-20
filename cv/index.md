@@ -2,7 +2,7 @@
 layout: cv
 title: Clay Wright's CV
 ---
-# R. Clay Wright  
+# R Clay Wright  
 
 <div id="webaddress">
 <a href="mailto:wright.clay@gmail.com">wright.clay@gmail.com</a>
@@ -11,14 +11,37 @@ title: Clay Wright's CV
 |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/rclaywright">@rclaywright</a>
 </div>
+<div id="internal_links">
+<a href="#edu">Education</a>
+|
+<a href="#employ">Employment</a>
+|
+<a href="#grants">Grants</a>
+|
+<a href="#papers">Papers</a>
+|
+<a href="#talks">Talks</a>
+|
+<a href="#posters">Posters</a>
+|
+<a href="#teaching">Teaching</a>
+|
+<a href="#honors">Honors</a>
+|
+<a href="#service">Service</a>
+|
+<a href="#outreach">Outreach</a>
+</div>
+<a name="edu"></a>
+## Education   
 
-## Education  
 `2008 - 2014`  
 Johns Hopkins University, Baltimore, MD, Ph.D. Chemical and Biomolecular Engineering, March 2014  
 
 `2004-2008`  
 North Carolina State University, Raleigh, NC, B.S. _summa cum laude_ Chemical and Biomolecular Engineering, Minor in Biotechnology, May 2008  
 
+<a name="employ"></a>
 ## Employment  
 
 `2014 - present`   
@@ -45,6 +68,8 @@ Cloning, purification and characterization of hyperthermophilic proteins
 __Research Assistant, Molecular Pharmacology, Inspire Pharmaceuticals Inc.__ Dr. Kurt Brubaker, Durham NC  
 Characterization of antihistamine mechanism of action  
 
+<a href="#top">top</a>
+<a name="grants"></a>
 ## Grants  
 
 `7/2014-6/2016`  
@@ -58,6 +83,8 @@ _Collaborative project with the founding members of Revolve for pre-commercial t
 `6/2010-5/2013`  
 __Improving protein switches for cancer-activated enzyme prodrug therapy through site saturation and random mutagenesis__, NSF GRFP 201008916, PI, Sponsoring mentor: Marc Ostermeier, Chemical Engineering, Johns Hopkins University.  
 
+<a href="#top">top</a>
+<a name="papers"></a>
 ## Peer Reviewed Publications  
 
 _Researchers mentored by RCW indicated by italics._  
@@ -87,12 +114,16 @@ Featured in Discover Magazine “Top 100 Stories of 2011: #38 Killing Cancer fro
 Gera N, Hussain M, __Wright RC__, Rao BM. Highly stable binding proteins derived from the hyperthermophilic Sso7d scaffold. _J Mol Biol_. 2010 Jun 17;409(4):601-16. doi:10.1016/j.jmb.2011.04.020.  
 RCW executed and analyzed experiments  
 
+<a href="#top">top</a>
+<a name="talks"></a>
 ## Invited talks  
 
 __Wright RC__, _Gerben SR_, Nemhauser JL, Evolvability and functional divergence of the auxin signaling F-box family. 49th Annual Northwest Developmental Biology Meeting, 2016 March 18; Friday Harbor, WA, USA.  
 
 __Wright RC__, _Khakhar A_, Wright CM, Eshleman JR, Ostermeier M, Improved protein switches for cancer-activated enzyme prodrug therapy. AICHE Annual Meeting, 2012 October 29; Pittsburgh, PA, USA.  
 
+<a href="#top">top</a>
+<a name="posters"></a>
 ## Posters  
 
 __Wright RC__, _Zahler ML_, _Gerben SR_, Nemhauser JL, Synthetic analysis of natural variants yields insights into the evolution and function of auxin signaling F-box proteins in Arabidopsis thaliana. SEED 2017, 2017 June 20-23; Vancouver, British Columbia, Canada.  
@@ -119,6 +150,8 @@ RCW designed, executed and analyzed experiments; created the poster
 __Wright RC__, Brubaker K, Boyer JL. Methods for detection of histamine-mediated eosinophil degranulation in human leukocyte populations. The State of North Carolina Undergraduate Research and Creativity Symposium. 2006 November 18; Raleigh, NC, USA.  
 RCW designed, executed and analyzed experiments; created the poster  
 
+<a href="#top">top</a>
+<a name="teaching"></a>
 ## Teaching Experience  
 
 Lecturer (Autumn 2017) University of Washington, School of Aquatic and Fisheries Sciences, Introduction to R Programming (FISH 552) and Advanced R Programming (FISH 553), 49 students  
@@ -139,6 +172,8 @@ Lecturer (Intersession 2013) Johns Hopkins University, Intersession Personal Enr
 
 Teaching Assistant (2009-2010, 2 semesters) Johns Hopkins University, Department of Chemical and Biomolecular Engineering, Kinetic Processes (EN.540.301), 80 students  
 
+<a href="#top">top</a>
+<a name="honors"></a>
 ## Honors and Awards  
 
 `2014`  
@@ -162,6 +197,8 @@ North Carolina State Undergraduate Research Award Recipient
 `2006`  
 Omega Chi Epsilon Chemical Engineering Honor Society Inductee  
 
+<a href="#top">top</a>
+<a name="service"></a>
 ## Professional Service and Affiliations  
 
 `2017 - present`  
@@ -181,6 +218,8 @@ Grievance Committee Graduate Representative, Johns Hopkins University
 `2012 - present`   
 Assistant reviewer for Cell, Proteins, Plant Cell, Nature Communications  
 
+<a href="#top">top</a>
+<a name="outreach"></a>
 ## Outreach  
 
 `2017 - present`  
