@@ -13,17 +13,20 @@ My research focuses on understanding how signaling networks facilitate both plas
 ## Approach
 My research integrates approaches from synthetic and computational biology, protein engineering, bioinformatics, molecular evolution, and genetics to quantify signaling dynamics, genetic interactions, and functional relationships in plant hormone signaling. 
 
+<img align="right" height="35%" width="35%" src="natVar.png">
 ## Aims
 
-<img align="right" height="35%" width="35%" src="natVar.png">
 ### Identify nodes of hormone-signaling networks conferring high evolvability by defining sequence-function-phenotype relationships
 
 We will initially identify the genes and protein domains within the auxin signaling network for which sequence variation maximizes functional variation. Utilizing the [natural variation webtool](/projects/natVarWebtool/) we have developed, sequence variation in hormone-signaling gene networks is easily extracted from the 1001 Genomes dataset (A and B). The functional effects of this sequence variation will then be measured in [synthetic hormone response assays in yeast](https://dx.doi.org/10.1073/pnas.1324147111) (C).
 
 The effects of this set of maximally functionally divergent variants on plant phenotye will then be quantified through backcrossing and segregation analysis, creation of recombinant inbred lines, transgensis, and/or the use of new CRISPR base-editors (D). This work will help identify genes and variants with high capacities for adaptive evolution to the selection criteria of plant breeders.
 
+<div></div>
+
 ### Quantify dynamics and noise robustness contributed by different modes of feedback and crosstalk in hormone response circuits
-<img align="right" height="50%" width="50%" src="IAA_TC.png">
+<img align="right" height="45%" width="45%" src="IAA_TC.png">
+
 Plant hormone signaling pathways contain numerous modes of feedback and crosstalk, which have potential to set signaling thresholds, control signaling dynamics, create memory of previous signals, and provide noise-robustness.
 
 Adding feedback to synthetic hormone response circuits and describing these circuits using minimal mathematical models, will allow us to parameterize these models and efficiently explore the space of dynamic behaviors. This will provide a greater understanding of the importance of feedback to plant growth and development, and help us to engineer plant form and function.
