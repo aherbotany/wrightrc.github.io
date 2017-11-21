@@ -23,7 +23,7 @@ We will initially identify the genes and protein domains within the auxin signal
 The effects of this set of maximally functionally divergent variants on plant phenotye will then be quantified through backcrossing and segregation analysis, creation of recombinant inbred lines, transgensis, and/or the use of new CRISPR base-editors (D). This work will help identify genes and variants with high capacities for adaptive evolution to the selection criteria of plant breeders.
 
 ### Quantify dynamics and noise robustness contributed by different modes of feedback and crosstalk in hormone response circuits
-<img align="right" height="55%" width="65%" src="IAA_TC.png">
+<img align="right" height="50%" width="50%" src="IAA_TC.png">
 Plant hormone signaling pathways contain numerous modes of feedback and crosstalk, which have potential to set signaling thresholds, control signaling dynamics, create memory of previous signals, and provide noise-robustness.
 
 Adding feedback to synthetic hormone response circuits and describing these circuits using minimal mathematical models, will allow us to parameterize these models and efficiently explore the space of dynamic behaviors. This will provide a greater understanding of the importance of feedback to plant growth and development, and help us to engineer plant form and function.
