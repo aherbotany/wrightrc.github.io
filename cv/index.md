@@ -138,13 +138,13 @@ RCW designed, executed and analyzed experiments; created the poster
 __Wright RC__, Wright CM, _Khakhar A_, Eshleman JR, Ostermeier M, Second-generation protein switches for cancer-activated enzyme prodrug therapy. Biochemical and Molecular Engineering XVII, 2011 June 26-30; Seattle, WA, USA.  
 RCW designed, executed and analyzed experiments; created the poster  
 
-__Wright RC__, Wright CM, _Khakhar A_, Eshleman JR, and Ostermeier M, Second-generation protein switches for cancer-activated enzyme prodrug therapy. (poster) 1st Network Symposium in Molecular and Cellular GlycoScience. 2011 October 15; Muenster, DE.  
+__Wright RC__, Wright CM, _Khakhar A_, Eshleman JR, and Ostermeier M, Second-generation protein switches for cancer-activated enzyme prodrug therapy. 1st Network Symposium in Molecular and Cellular GlycoScience. 2011 October 15; Muenster, DE.  
 RCW designed, executed and analyzed experiments; created the poster  
 
-__Wright RC__, Wright CM, Eshleman JR, and Ostermeier M, Second-generation protein switches for cancer-activated enzyme prodrug therapy. (poster) Biological Design: Fourth Annual Advances in Bimolecular Engineering Symposium, 2010 December 3: New York, NY, USA.  
+__Wright RC__, Wright CM, Eshleman JR, and Ostermeier M, Second-generation protein switches for cancer-activated enzyme prodrug therapy. Biological Design: Fourth Annual Advances in Bimolecular Engineering Symposium, 2010 December 3: New York, NY, USA.  
 RCW designed, executed and analyzed experiments; created the poster  
 
-__Wright RC__, Rao BM. Spatial model for in vitro patterned differentiation of human embryonic stem cells. (poster) The North Carolina State University Undergraduate Research Symposium. 2008 April 21; Raleigh, NC USA.  
+__Wright RC__, Rao BM. Spatial model for in vitro patterned differentiation of human embryonic stem cells. The North Carolina State University Undergraduate Research Symposium. 2008 April 21; Raleigh, NC USA.  
 RCW designed, executed and analyzed experiments; created the poster  
 
 __Wright RC__, Brubaker K, Boyer JL. Methods for detection of histamine-mediated eosinophil degranulation in human leukocyte populations. The State of North Carolina Undergraduate Research and Creativity Symposium. 2006 November 18; Raleigh, NC, USA.  
