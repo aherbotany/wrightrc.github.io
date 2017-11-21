@@ -3,8 +3,8 @@ layout: default
 title: Software
 ---
 	<h1>{{ page.title }}</h1>
+	<p>Open source software facilitates reproducible research and increases access to research tools. The software I develop is with these goals of open science in mind. I develop mostly in R, frequently use R, python, markdown, matlab, jekyll, html, css, and have used ruby, java, PERL and C++ in the past.  
 	<ul class="posts">
-
 	  {% for project in site.projects %}
 	    <li><a href="{{ project.url }}" title="{{ project.title }}">{{ project.title }}</a> <- <span>{{ project.description }}</span></li>
 	  {% endfor %}
