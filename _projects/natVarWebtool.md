@@ -15,12 +15,13 @@ The 1001 genomes dataset was collected with the intention of genome scale analys
 Tabs within the webtool will help you: 
 1. calculate nucleotide diversity for a set of genes,
 2. plot the nucleotide diversity of missense and synonymous variants,  
-![](/software/divPlot.png){:height="100%" width="100%"}   
+![a screenshot of the Diversity Plot tab showing data for TIR1](/software/divPlot.png){:height="100%" width="100%"}   
 3. map accessions containing variants in a gene or set of genes,
-![](/software/map.png){:height="100%" width="100%"}   
+![a screenshot of the Map tab showing a selection of TIR1 variants](/software/map.png){:height="100%" width="100%"}   
 4. identify variants/accessions by interacting with these plots, and 
 5. download data for selected sets of variants/accessions.
+![a screenshot of the full app, focused on the Accessions and Mutations tab](/software/app.png){:height="100%" width="100%"}
 
-We are currently testing this tool by creating summaries of the natural variation in the nuclear auxin response pathway, and plan to publish this tool and our analysis in early 2018. 
+We are currently testing this tool by creating summaries of the natural variation in the genes of nuclear auxin response pathway, and plan to publish this tool and our analysis in early 2018. 
 
 
