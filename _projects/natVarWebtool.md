@@ -8,7 +8,7 @@ description: Gene- and site-wise analysis of sequence and geograpic diversity ba
 
 _currently in development_
 
-This web app and open source software package for the R programming language was built to facilitate exploration of the naturally occuring sequence diversity for your favorite gene or gene family.  
+This web app and open source software package for the R programming language was built to facilitate exploration of the naturally occuring sequence diversity for your favorite gene or gene family. We hope this web app will help plant biologists without bioinformatics experience access the 1001 genomes project's rich catalog of natural variation and formulate hypotheses and identify new alleles in their favorite gene family.
 
 The 1001 genomes dataset was collected with the intention of genome scale analyses, such as genome wide association studies, in which a particular phenotype is quantified for all of the accessions and sequence variants that are associated with phenotypic variation are identified. In [my recent work](https://dx.doi.org/10.1534/genetics.117.300092), I have utilized this rich dataset in a different manner to measure the effects of coding sequence variation on protein functional variation and phenotypic variation. This work has expanded the sequence-function-phenotype map for the auxin-signaling F-box gene family, and this web app will facilitate similar analysis other genes, gene families, and genomic regions.
 
