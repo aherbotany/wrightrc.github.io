@@ -15,8 +15,8 @@ My research integrates approaches from synthetic and computational biology, prot
 
 ## Aims
 
-### Identify nodes of hormone-signaling networks conferring high evolvability by defining sequence-function-phenotype relationships
 <img align="right" height="35%" width="35%" src="natVar.png">
+### Identify nodes of hormone-signaling networks conferring high evolvability by defining sequence-function-phenotype relationships
 
 We will initially identify the genes and protein domains within the auxin signaling network for which sequence variation maximizes functional variation. Utilizing the [natural variation webtool](/projects/natVarWebtool/) we have developed, sequence variation in hormone-signaling gene networks is easily extracted from the 1001 Genomes dataset (A and B). The functional effects of this sequence variation will then be measured in [synthetic hormone response assays in yeast](https://dx.doi.org/10.1073/pnas.1324147111) (C).
 
