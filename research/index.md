@@ -30,7 +30,7 @@ Adding feedback to synthetic hormone response circuits and describing these circ
 
 
 ### Develop hormone and protein biosensors to close the loop in developmental models
-<img align="left" height="55%" width="55%" src="model.png" style="padding-right: 3px">
+<img align="left" height="45%" width="45%" src="model.png" style="padding-right: 3px">
 To translate much of the hypotheses generated from the proposed work in synthetic systems into in planta relevance will require the use of precision genome engineering tools, phenotyping at cell, tissue, and organism levels, and reporters and sensors of both signaling inputs and outputs. However, there is a lack of non-destructive methods for measuring hormone concentrations in planta.
 
 I plan to utilize my protein engineering background to develop hormone biosensors based on hormone-induced stability of hormone-binding-protein-reporter fusions. I also plan to engineer high affinity binding proteins for auxin signalign proteins that can be fused to split reporter proteins to measure proteins and protein complexes using via bimolecular fluorescent complementation.
