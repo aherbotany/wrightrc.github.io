@@ -7,6 +7,8 @@ title: Clay Wright's CV
 <div id="webaddress">
 <a href="mailto:wright.clay@gmail.com">wright.clay@gmail.com</a>
 |
+<i class="ai ai-google-scholar"></i><a href="https://scholar.google.com/citations?user=4-6pPXwAAAAJ&hl=en"> RC Wright</a>
+|
 <i class="fa fa-github"></i> <a href="http://github.com/wrightrc">wrightrc</a>
 |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/rclaywright">@rclaywright</a>
