@@ -29,13 +29,13 @@ The effects of this set of maximally functionally divergent variants on plant ph
 
 Plant hormone signaling pathways contain numerous modes of feedback and crosstalk, which have potential to set signaling thresholds, control signaling dynamics, create memory of previous signals, and provide noise-robustness.
 
-Adding feedback to synthetic hormone response circuits and describing these circuits using minimal mathematical models, will allow us to parameterize these models and efficiently explore the space of dynamic behaviors. This will provide a greater understanding of the importance of feedback to plant growth and development, and help us to engineer plant form and function.
+Adding feedback to synthetic hormone response circuits and describing these circuits using minimal mathematical models, will allow us to parameterize these models and efficiently explore the space of dynamic behaviors. This will provide a greater understanding of the importance of feedback to plant growth and development and help us to engineer plant form and function.
 
 
 ### Develop hormone and protein biosensors to close the loop in developmental models
 <img align="left" height="45%" width="45%" src="model.png" style="padding-right: 3px">
-To translate much of the hypotheses generated from the proposed work in synthetic systems into in planta relevance will require the use of precision genome engineering tools, phenotyping at cell, tissue, and organism levels, and reporters and sensors of both signaling inputs and outputs. However, there is a lack of non-destructive methods for measuring hormone concentrations in planta.
+To translate many of the hypotheses generated from the proposed work in synthetic systems into *in planta* relevance will require the use of precision genome engineering tools, phenotyping at cell, tissue, and organism levels, and reporters and sensors of both signaling inputs and outputs. However, there is a lack of non-destructive methods for measuring hormone concentrations *in planta*.
 
-I plan to utilize my protein engineering background to develop hormone biosensors based on hormone-induced stability of hormone-binding-protein-reporter fusions. I also plan to engineer high affinity binding proteins for auxin signalign proteins that can be fused to split reporter proteins to measure proteins and protein complexes using via bimolecular fluorescent complementation.
+I plan to utilize my protein engineering background to develop hormone, protein, and protein complex biosensors. These tools will rapidly advance our understanding of the true complexity of key developmental events and the gene networks controlling these events
 
 
