@@ -36,6 +36,6 @@ Adding feedback to synthetic hormone response circuits and describing these circ
 <img align="left" height="45%" width="45%" src="model.png" style="padding-right: 3px">
 To translate many of the hypotheses generated from the proposed work in synthetic systems into *in planta* relevance will require the use of precision genome engineering tools, phenotyping at cell, tissue, and organism levels, and reporters and sensors of both signaling inputs and outputs. However, there is a lack of non-destructive methods for measuring hormone concentrations *in planta*.
 
-I plan to utilize my protein engineering background to develop hormone, protein, and protein complex biosensors. These tools will rapidly advance our understanding of the true complexity of key developmental events and the gene networks controlling these events
+I plan to utilize my protein engineering background to develop hormone, protein, and protein complex biosensors. These tools will rapidly advance our understanding of the true complexity of key developmental events and the gene networks controlling these events.
 
 
